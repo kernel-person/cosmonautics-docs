@@ -34,11 +34,16 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - About Cosmonautics: about.md
   - Installation: installation.md
   - Player Guides:
       - Journey Overview: player-guide.md
+      - Space Program: space-program.md
+      - Rockets And Launch Sites: rockets.md
+      - Surviving Space: survival.md
       - Interactive Tutorials: tutorials.md
       - Orbital Station: station.md
+      - Exploring The Moon: moon.md
   - Commands: commands.md
   - Server Administration:
       - Configuration: configuration.md

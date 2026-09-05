@@ -23,10 +23,48 @@
 - Practice zero-gravity movement, tethering, and station construction.
 - Explore lunar terrain and catacombs, then establish a breathable Moon base.
 
+## Explore Cosmonautics
+
+<div class="cosmo-grid" markdown>
+
+<div class="cosmo-card" markdown>
+### Build a space program
+
+Follow advancements from early rocketry to orbital missions and lunar settlement.
+
+[See the Space Program](space-program.md)
+</div>
+
+<div class="cosmo-card" markdown>
+### Launch real missions
+
+Build a pad, wire Mission Control, assemble Artemis, fuel it, and climb aboard.
+
+[Learn about rockets](rockets.md)
+</div>
+
+<div class="cosmo-card" markdown>
+### Survive beyond Earth
+
+Manage sealed suits, Oxygen Canisters, pressure, airlocks, habitats, and EVA movement.
+
+[Prepare for space](survival.md)
+</div>
+
+<div class="cosmo-card" markdown>
+### Reach the Moon
+
+Land in a habitat-equipped lunar module, explore catacombs, and build a breathable base.
+
+[Explore the Moon](moon.md)
+</div>
+
+</div>
+
 ## Start here
 
 Players should begin with the [Player Guide](player-guide.md) and use `/cosmo guide` in game. Server owners should read [Installation](installation.md), then review [Configuration](configuration.md) and [Permissions](permissions.md).
 
-!!! note "Documentation under construction"
-    Cosmonautics is still growing. These foundations cover the supported beta journey; more screenshots and feature guides will arrive alongside completed plugin systems.
+!!! note "Early access"
+    This wiki documents the supported beta journey. Coming-soon destinations remain clearly separated from playable release content.
 
