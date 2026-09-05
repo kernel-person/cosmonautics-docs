@@ -2,7 +2,9 @@
 
 The Moon is the destination at the heart of the current Cosmonautics release. Artemis delivers each pilot to a persistent landing site with a habitat-equipped lander and a fueled route home.
 
-<div class="screenshot-slot">Screenshot coming: lunar landscape with Earth visible above the lander or habitat</div>
+![Earth visible above the generated lunar landscape](images/moon-earth.jpg){ .wiki-shot loading=lazy }
+
+*Earth hangs above the Moon's generated terrain.*
 
 ## First landing
 
@@ -20,7 +22,9 @@ Generated Cosmonautics Moon worlds include catacombs with authored rooms and loo
 
 Lunar exploration provides materials used for Lunar Alloy and later settlement progression.
 
-<div class="screenshot-slot">Screenshot coming: a recognizable Moon catacomb corridor, laboratory, or loot room</div>
+![Entrance into a generated Moon catacomb](images/moon-catacomb-entrance.jpg){ .wiki-shot loading=lazy }
+
+*A generated catacomb entrance exposed at the lunar surface.*
 
 ## Return to Earth
 
@@ -28,4 +32,3 @@ Bring Rocket Fuel to the lectern inside the lander habitat. The lectern controls
 
 !!! note "External Moon worlds"
     A server can adopt a provider-owned Moon with a biome-only environment overlay. Its terrain and structures remain owned by that provider, so Cosmonautics catacombs are unavailable unless the provider supplies them.
-

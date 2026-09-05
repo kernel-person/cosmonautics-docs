@@ -2,15 +2,18 @@
 
 Add finished public screenshots to `docs/images/`. Capture real gameplay from the release candidate with the normal player HUD hidden where practical.
 
-## Highest priority
+## Captured
 
-- `artemis-launch-site.png`
+- `artemis-launch-site.jpg`
 - `space-program-advancements.png`
-- `moon-landing.png`
-- `lunar-habitat.png`
-- `station-eva.png`
+- `moon-earth.jpg`
+- `station-eva.jpg`
+- `moon-catacomb-entrance.jpg`
+
+## Still useful
+
+- `lunar-habitat.jpg`
 - `suited-pressure-gauge.png`
-- `moon-catacomb.png`
 
 Recommended framing:
 

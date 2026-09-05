@@ -2,6 +2,10 @@
 
 The orbital Station is an optional branch of the Cosmonautics journey. You can travel directly between Earth and the Moon without completing Station content, or establish a station first for construction, processing, EVA, and cooperative play.
 
+![A player performing an EVA above an orbital Station with a visible safety tether](images/station-eva.jpg){ .wiki-shot loading=lazy }
+
+*Station EVA with solar power, the planet display, and a visible harness tether.*
+
 Start with the interactive lesson:
 
 ```text
@@ -38,4 +42,3 @@ Station space is zero gravity. Use movement input for RCS corrections and hold S
 
 !!! warning "Prepare before going outside"
     Wear a complete sealed suit and carry Oxygen Canisters before entering vacuum. Use `/cosmo status` to check your equipment and oxygen state.
-

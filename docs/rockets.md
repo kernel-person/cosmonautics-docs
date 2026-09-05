@@ -2,7 +2,9 @@
 
 Rockets in Cosmonautics begin as infrastructure and materials, not a menu shortcut. The main Earth–Moon mission uses a player-built Artemis launch site with Mission Control, staged construction, propellant, and an animated flight.
 
-<div class="screenshot-slot">Screenshot coming: Artemis standing on a completed 10 × 10 launch pad</div>
+![Artemis standing on a completed launch pad beside Mission Control](images/artemis-launch-site.jpg){ .wiki-shot loading=lazy }
+
+*Artemis on its completed pad, with the Launch Controller and supply infrastructure at its base.*
 
 ## Build the launch site
 
@@ -32,4 +34,3 @@ The lunar lander remains at its assigned landing site. Place Rocket Fuel into th
 
 !!! warning "Prepare before launch"
     Wear a complete sealed suit and carry Oxygen Canisters before leaving Earth. Space and the Moon cannot be treated like breathable overworld environments.
-

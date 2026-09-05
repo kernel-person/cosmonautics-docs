@@ -4,7 +4,9 @@ Cosmonautics turns a Paper survival server into a player-built space program. Pr
 
 The plugin is built around physical preparation. Players craft life-support equipment, construct launch sites, supply real building materials and propellant, board animated vehicles, and learn to survive environments where gravity and breathable air can no longer be taken for granted.
 
-<div class="screenshot-slot">Screenshot coming: completed Artemis rocket on its Earth launch site</div>
+![A completed Artemis rocket standing on its Earth launch site at dusk](images/artemis-launch-site.jpg){ .wiki-shot loading=lazy }
+
+*A completed Artemis vehicle and its surrounding launch infrastructure.*
 
 ## The core journey
 
@@ -28,4 +30,3 @@ The supported early-access journey covers Earth, optional Station content, and t
 
 [Begin the player journey](player-guide.md){ .md-button .md-button--primary }
 [View interactive tutorials](tutorials.md){ .md-button }
-
