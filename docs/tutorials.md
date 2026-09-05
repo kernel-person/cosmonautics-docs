@@ -8,6 +8,15 @@ Cosmonautics tutorials teach complete systems through private, interactive scene
 
 Select a lesson in chat or start one directly with `/cosmo tutorial <tutorial-id>`. Use `/cosmo tutorial stop` to leave at any time.
 
+## See a tutorial in action
+
+<video controls preload="metadata" playsinline poster="../images/launch-site-tutorial-poster.jpg" class="wiki-video">
+  <source src="../videos/launch-site-tutorial.mp4" type="video/mp4">
+  Your browser does not support embedded video. You can <a href="../videos/launch-site-tutorial.mp4">download the Launch Site tutorial recording</a> instead.
+</video>
+
+*A short playthrough of the Launch Site lesson, from constructing the pad to previewing Artemis and its propellants.*
+
 ## Available lessons
 
 ### Launch Site
