@@ -35,10 +35,12 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Installation: installation.md
-  - Player Guide: player-guide.md
+  - Player Guides:
+      - Journey Overview: player-guide.md
+      - Interactive Tutorials: tutorials.md
+      - Orbital Station: station.md
   - Commands: commands.md
   - Server Administration:
       - Configuration: configuration.md
       - Permissions: permissions.md
   - Roadmap: roadmap.md
-

@@ -13,7 +13,9 @@ The main command is `/cosmo`.
 | `/cosmo launch <destination>` | Launch when route requirements are met. |
 | `/cosmo return` | Show the correct return method for your location. |
 | `/cosmo rocket` | Open the Earth rocket and launch-site guide. |
-| `/cosmo tutorial [launch-site\|stop]` | Start or stop a private client-side tutorial. |
+| `/cosmo tutorial` | Open the interactive tutorial catalog. |
+| `/cosmo tutorial <tutorial-id>` | Start `launch-site`, `survive-space`, or `space-station`. |
+| `/cosmo tutorial stop` | Stop your current private tutorial. |
 | `/cosmo ship guide` | Show Station controller and voyage guidance. |
 | `/cosmo ship status` | Show the Station ship's current state. |
 | `/cosmo ship travel <destination>` | Begin a supported Station voyage. |
@@ -30,3 +32,4 @@ The main command is `/cosmo`.
 
 Support reports are written under `plugins/SpacePlugin/support-reports/` and exclude inventories, player data, and raw configuration contents.
 
+See [Interactive Tutorials](tutorials.md) for lesson contents and controls.

@@ -9,8 +9,8 @@ Advancements guide and reward supported actions; they do not lock recipes, comma
 ## Journey to the Moon
 
 1. Craft a Launch Controller, Rocket Fuel, and Oxidizer.
-2. Run `/cosmo tutorial launch-site` to view the private 10×10 Artemis construction lesson.
-3. Use a pressure gauge, then equip a glass helmet, all three white suit pieces, and an oxygen tank.
+2. Run `/cosmo tutorial launch-site` to learn the private 10×10 Artemis construction lesson.
+3. Run `/cosmo tutorial survive-space` to learn suit equipment, pressure safety, and airlock operation.
 4. Build and board an Artemis launch site, or take the optional Station branch first.
 5. On the Moon, explore generated catacombs, create a breathable habitat, and craft Lunar Alloy.
 6. Register a bed in fully breathable lunar air and continue toward **Moon Base Alpha**.
@@ -24,6 +24,8 @@ Advancements guide and reward supported actions; they do not lock recipes, comma
 The Station is optional content, separate from the direct Earth–Moon journey. In zero gravity, use movement input for RCS corrections and hold Shift for a forward burst. An EVA harness can tether you to nearby solid surfaces.
 
 At the Station you can assemble modules, process asteroids, visit another player's dock, and prepare a voyage.
+
+Run `/cosmo tutorial space-station` for a private guided demonstration, then read the [Orbital Station guide](station.md) for a concise reference.
 
 ## When a launch is blocked
 
