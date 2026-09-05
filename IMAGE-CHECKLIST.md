@@ -9,11 +9,7 @@ Add finished public screenshots to `docs/images/`. Capture real gameplay from th
 - `moon-earth.jpg`
 - `station-eva.jpg`
 - `moon-catacomb-entrance.jpg`
-
-## Still useful
-
-- `lunar-habitat.jpg`
-- `suited-pressure-gauge.png`
+- `moon-base-pressure-gauge.jpg`
 
 Recommended framing:
 
@@ -24,6 +20,6 @@ Recommended framing:
 5. Station: planet display, zero-gravity pose, RCS effect, and visible harness tether.
 6. Catacomb: a distinctive corridor, laboratory, or loot room rather than a dark generic tunnel.
 
-The wiki currently uses styled screenshot slots instead of broken image links. Replace each slot with the matching Markdown image after capture.
+The core player-facing screenshot set is complete. Add future captures only when they explain a new released feature or materially improve an existing guide.
 
 The two Cosmonautics branding images already in that directory are approved exports from the plugin repository.

@@ -16,6 +16,10 @@ The Moon has reduced gravity and no naturally breathable atmosphere. Keep your s
 
 Deploy a habitat, seal its structure, and establish breathable air. Registering a bed inside fully breathable lunar air marks an important settlement milestone. Continued building, safe habitats, and lunar crafting carry the Space Program toward a permanent Moon base.
 
+![The interior of a pressurized Moon base with greenery and a Pressure Gauge readout](images/moon-base-pressure-gauge.jpg){ .wiki-shot loading=lazy }
+
+*A finished lunar base uses sealed construction and greenery to maintain fully breathable air.*
+
 ## Explore beneath the surface
 
 Generated Cosmonautics Moon worlds include catacombs with authored rooms and loot. Enter prepared: surface life support remains necessary underground, and the route back to the lander still matters.

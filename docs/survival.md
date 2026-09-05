@@ -2,7 +2,9 @@
 
 Space is hostile even when the rocket works perfectly. Cosmonautics models breathable air, oxygen reserves, pressure loss, decompression, low- and zero-gravity movement, and the equipment needed to survive them.
 
-<div class="screenshot-slot">Screenshot coming: suited player holding a Pressure Gauge beside a sealed habitat</div>
+![A Pressure Gauge reporting fully breathable air inside a lunar base](images/moon-base-pressure-gauge.jpg){ .wiki-shot loading=lazy }
+
+*The Pressure Gauge confirms that this sealed Moon base is pressurized with 100% breathable air.*
 
 ## Your survival equipment
 
@@ -30,4 +32,3 @@ At the orbital Station, movement input provides RCS corrections and Shift gives 
 
 !!! danger "Vacuum checklist"
     Complete suit, Oxygen Canisters, known pressure state, and a safe return route should all be confirmed before leaving a pressurized area.
-
