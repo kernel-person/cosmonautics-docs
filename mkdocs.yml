@@ -44,6 +44,7 @@ nav:
       - Interactive Tutorials: tutorials.md
       - Orbital Station: station.md
       - Exploring The Moon: moon.md
+      - Lunar Rovers: rovers.md
   - Commands: commands.md
   - Server Administration:
       - Configuration: configuration.md

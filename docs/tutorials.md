@@ -8,6 +8,8 @@ Cosmonautics tutorials teach complete systems through private, interactive scene
 
 Select a lesson in chat or start one directly with `/cosmo tutorial <tutorial-id>`. Use `/cosmo tutorial stop` to leave at any time.
 
+The lessons, including Moon workshop, do not require an advancement unlock. The `spaceplugin.tutorial` permission is enabled for players by default.
+
 ## See a tutorial in action
 
 <video controls preload="metadata" playsinline poster="../images/launch-site-tutorial-poster.jpg" class="wiki-video">
@@ -55,9 +57,27 @@ Follow a station-founding mission into orbit, dock with the new station, install
 
 *The Station lesson uses glowing targets to demonstrate asteroid processing and machinery.*
 
+### Moon workshop
+
+```text
+/cosmo tutorial moon-workshop
+```
+
+Learn the complete Scrap-to-equipment route through five chapters:
+
+1. Find Lunar Scrap in a secured colony loot-room chest.
+2. Produce Hydrogen in a powered Station brewing stand.
+3. Brew Lunar Alloy Solution and craft finished Lunar Alloy.
+4. View both Solo and Duo rover recipes, placement, refuelling, and driving. Floating W/A/S/D prompts show forward movement, reversing, and steering.
+5. Preview the Copper Gun, Rocket Launcher, their ammunition, and how their shots behave.
+
+The lesson demonstrates the existing recipes without giving you real items or firing real weapons. Thruster Assembly and interplanetary travel are outside this released lesson. See [Exploring the Moon](moon.md#make-lunar-alloy) and [Lunar Rovers](rovers.md) for the written recipes and controls.
+
 ## Controls and interactions
 
 - Follow action-bar narration and click glowing scene objects when prompted.
+- Clicking a machine or crafting target opens its preview immediately. In brewing previews, click the ingredient or any of the three bottom bottles to advance; the protected battery slot does not advance the lesson.
+- The Moon hydrogen demonstration needs one processing click; it does not make you repeat the batch.
 - Use the chat controls to move between chapters, replay, or exit. Interaction boundaries advance directly to the next glowing target.
 - A completed scene remains visible until you use its glowing finish target.
 - Only one tutorial session runs for you at a time.

@@ -26,7 +26,7 @@ Interactive tutorials demonstrate major systems with client-only blocks, entitie
 
 ## Current release scope
 
-The supported early-access journey covers Earth, optional Station content, and the Moon. Mars, Europa, the Asteroid Belt, and Vulcanus remain visible as coming soon but are not accessible in release builds.
+Beta.7 supports Earth, the Moon, stationary Stations, ordinary rockets, and Solo/Duo Lunar Rovers. Stations are optional for the direct Earth–Moon journey and required for Lunar Alloy refining. Additional planets, moving Station voyages, Station thrusters, and the solar-system Dynmap view remain unavailable in release builds.
 
 [Begin the player journey](player-guide.md){ .md-button .md-button--primary }
 [View interactive tutorials](tutorials.md){ .md-button }

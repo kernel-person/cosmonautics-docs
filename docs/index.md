@@ -13,15 +13,19 @@
   </div>
 </div>
 
-<p class="cosmo-status"><strong>Early-access scope:</strong> the supported core journey runs from Earth to the Moon. Station content is optional. Mars, Europa, the Asteroid Belt, and Vulcanus are visible as coming soon but cannot be entered in release builds.</p>
+<p class="cosmo-status"><strong>Beta.7 release scope:</strong> Earth, the Moon, stationary Stations, ordinary rockets, and Solo/Duo Lunar Rovers. Additional planets, moving Station voyages, and Station thrusters remain unreleased.</p>
+
+!!! tip "New in beta.7"
+    Find Lunar Scrap in secured Moon colony loot rooms, [refine it into Lunar Alloy](moon.md#make-lunar-alloy) at a powered Station, and build your [Lunar Rover](rovers.md). Try `/cosmo tutorial moon-workshop` for the interactive lesson. This update also improves Station performance and tutorial interactions.
 
 ## What players can do
 
-- Follow a 29-milestone Space Program advancement journey.
+- Follow the Space Program advancement journey.
 - Build an Artemis launch site and fly directly between Earth and the Moon.
 - Manage suits, oxygen, pressure, habitats, and decompression hazards.
 - Practice zero-gravity movement, tethering, and station construction.
 - Explore lunar terrain and catacombs, then establish a breathable Moon base.
+- Refine Lunar Scrap and craft Hydrogen-powered Solo and Duo rovers.
 
 ## Explore Cosmonautics
 
@@ -30,7 +34,7 @@
 <div class="cosmo-card" markdown>
 ### Build a space program
 
-Follow advancements from early rocketry to orbital missions and lunar settlement.
+Follow advancements from early rocketry to orbital operations and a Moon landing and return.
 
 [See the Space Program](space-program.md)
 </div>

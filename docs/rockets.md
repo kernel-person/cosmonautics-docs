@@ -28,6 +28,9 @@ Once ready, the mission includes ignition, powered ascent, stage separation, and
 
 The wider Space Program also introduces V-2 development, Sputnik reconnaissance, and Soyuz passenger transport. Artemis remains the supported direct route between Earth and the Moon.
 
+!!! note "Known beta.7 visual issue"
+    A rocket can become invisible late in ascent, around 1,700–2,000 blocks high. This visual issue remains unresolved in beta.7.
+
 ## Returning from the Moon
 
 The lunar lander remains at its assigned landing site. Place Rocket Fuel into the lectern inside its habitat and use that control to launch the ascent stage home. `/cosmo return` explains the correct return method for your current destination.

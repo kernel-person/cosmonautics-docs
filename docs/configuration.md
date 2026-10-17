@@ -20,7 +20,7 @@ The main configuration groups cover:
 - Oxygen reserves, breathing, and vacuum damage
 - Sealed-room pressure, air quality, and decompression
 - Planetary environmental processing
-- Station thrusters and personal docks
+- Station power, processing, and personal docks
 - Rocket countdowns, structure consumption, and fuel costs
 - Crafting recipe availability
 
@@ -28,9 +28,19 @@ Invalid bounded numeric values are clamped and reported during startup. Duplicat
 
 ## Production safety
 
-Keep `debug.enabled: false` on production servers. It unlocks development laboratories, authoring tools, world regeneration, and unfinished destinations and is not needed for normal gameplay or administration.
+Keep `debug.enabled: false` on production servers. It exposes support/developer tools and is not needed for normal gameplay. Release builds independently disable additional planets, moving Station voyages, Station thrusters, and solar-system Dynmap; configuration, debug mode, and administrator permissions cannot enable them.
 
 ## License activation
 
-BuiltByBit buyer downloads contain a license key. Direct licenses may set `license-key` or store the key alone in `plugins/SpacePlugin/license.key`; the file is used only when the configuration value is blank. Startup activation fails closed after a ten-second network timeout. Later heartbeat failures produce warnings but do not stop a running server.
+Licensing is not configured in `config.yml`. Use the personalized JAR from your marketplace account. It activates online through RIC on first use. If support supplies a manual key, put it alone in `plugins/SpacePlugin/license.key`; this takes precedence over the embedded marketplace activation.
+
+RIC authentication is required at startup. Later starts can validate a current cached signed lease or activate online when needed. Mid-session renewal and six-hour expiry shutdown are disabled by default after startup succeeds; the next startup checks licensing again. Preserve the plugin-managed licensing state when backing up or moving the installation.
+
+## Lunar progression and external worlds
+
+The [Lunar Alloy process](moon.md#make-lunar-alloy) needs a powered Station brewing stand and Lunar Scrap from secured colony loot rooms. An external Moon retains its provider's terrain and structures, so adopting it does not generate Cosmonautics catacombs or create a Scrap supply. The server owner must provide suitable loot or another source if the provider does not supply it.
+
+## Rovers
+
+Beta.7 adds no rover-specific configuration settings. One Hydrogen bottle provides up to ten minutes of powered driving at normal server speed, and a full tank holds four bottles. Parked rovers use no fuel. Preserve `rovers.dat` with the rest of the plugin data. See [Lunar Rovers](rovers.md) for recipes and controls.
 

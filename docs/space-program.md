@@ -1,12 +1,8 @@
 # The Space Program
 
-The **Space Program** is a 29-milestone advancement journey through rocketry, survival equipment, orbital operations, cooperation, lunar exploration, and settlement.
+The **Space Program** is an advancement journey through rocketry, survival equipment, orbital operations, and a Moon landing and return.
 
 Craft or launch a Firework Rocket to reveal the tab. Progress begins after Cosmonautics is installed; earlier accomplishments are not inferred.
-
-![The Space Program advancement tree](images/space-program-advancements.png){ .wiki-shot loading=lazy }
-
-*The Space Program branches from early rocketry into survival, Station, and lunar progression.*
 
 ## Early rocketry
 
@@ -18,20 +14,20 @@ Fuel and Oxidizer milestones each track 30 crafted items. These advancements des
 
 The optional Station branch includes:
 
-- Reaching low Earth orbit
-- Learning RCS course correction and EVA tethering
-- Assembling station equipment
-- Harvesting real asteroid output
-- Visiting another player's dock
-- Completing a Station voyage and returning safely
+- **Low Earth Orbit:** arrive at a Station by a normal rocket mission.
+- **Station Online:** bring a Station machine online with adequate solar power.
+- **Harvest the Heavens:** be present when a powered asteroid collector delivers resources.
+- **Orbital Defense:** destroy an asteroid with the Station's Copper Cannon or Missile Turret.
 
 Reaching low Earth orbit awards an EVA Harness.
 
 ## Moon branch
 
-The supported lunar branch begins with a cleared Artemis launch and **One Small Step**. It continues through returning home, repeated lunar travel, breathable habitats, settlement, lunar crafting, and entering generated catacombs.
+The lunar branch begins with **Cleared for Launch**, earned by boarding a complete, valid Artemis site, and **One Small Step**, earned by completing the Moon landing. It then branches to **The Long Way Home**, for completing the lander's return to Earth, and **Home Away from Home**, for successfully deploying a habitat in an oxygen-controlled world.
 
-**One Small Step** awards a Habitat Deployer. Other milestones award experience and occasional one-time items.
+**One Small Step** awards a Habitat Deployer. **The Long Way Home** awards eight Firework Rockets. Other milestones award experience and occasional one-time items.
+
+Continue beyond the advancement goals by exploring catacombs, [refining Lunar Alloy](moon.md#make-lunar-alloy), building a breathable base, and crafting [Lunar Rovers](rovers.md). These activities do not require a separate advancement unlock.
 
 ## Guidance, not gates
 

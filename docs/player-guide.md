@@ -2,7 +2,7 @@
 
 ## Your space program
 
-Craft or launch a Firework Rocket to reveal the **Space Program** advancement tab. Its 29 milestones guide development from Mission Control and propellant production through rockets, optional Station missions, lunar exploration, and Moon settlement.
+Craft or launch a Firework Rocket to reveal the **Space Program** advancement tab. Its milestones guide development from Mission Control and propellant production through rockets, Station operations, and a Moon landing and return.
 
 Advancements guide and reward supported actions; they do not lock recipes, commands, travel, or other features.
 
@@ -12,18 +12,18 @@ Advancements guide and reward supported actions; they do not lock recipes, comma
 2. Run `/cosmo tutorial launch-site` to learn the private 10×10 Artemis construction lesson.
 3. Run `/cosmo tutorial survive-space` to learn suit equipment, pressure safety, and airlock operation.
 4. Build and board an Artemis launch site, or take the optional Station branch first.
-5. On the Moon, explore generated catacombs, create a breathable habitat, and craft Lunar Alloy.
-6. Register a bed in fully breathable lunar air and continue toward **Moon Base Alpha**.
-7. Use the lectern inside the lander habitat with Rocket Fuel to launch the ascent stage home.
+5. On the Moon, explore generated catacombs, create a breathable habitat, and find Lunar Scrap in secured colony loot rooms.
+6. Use the lectern inside the lander habitat with Rocket Fuel to launch the ascent stage home with your Scrap.
+7. Visit a Station and use its powered brewing stand to refine the Scrap into Solution, then craft Lunar Alloy for [rovers](rovers.md) and equipment. `/cosmo tutorial moon-workshop` demonstrates the process.
 
 !!! info "Safe tutorial boundary"
     Tutorials are private client-side lessons. They do not change real blocks, entities, inventories, player state, or gameplay state.
 
 ## Station and EVA
 
-The Station is optional content, separate from the direct Earth–Moon journey. In zero gravity, use movement input for RCS corrections and hold Shift for a forward burst. An EVA harness can tether you to nearby solid surfaces.
+The Station is optional for direct Earth–Moon travel, but required for the [Lunar Alloy production chain](moon.md#make-lunar-alloy). In zero gravity, use movement input for RCS corrections and hold Shift for a forward burst. An EVA harness can tether you to nearby solid surfaces.
 
-At the Station you can assemble modules, process asteroids, visit another player's dock, and prepare a voyage.
+At the Station you can assemble modules, process asteroids, produce gases, refine alloy, and visit another player's dock. Moving Station voyages and thrusters remain unreleased.
 
 Run `/cosmo tutorial space-station` for a private guided demonstration, then read the [Orbital Station guide](station.md) for a concise reference.
 
