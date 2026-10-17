@@ -59,9 +59,20 @@ Place the Scrap directly into the ingredient slot; vanilla shift-clicking does n
 
 Use Hydrogen in every bottom slot: Oxygen, water, and empty bottles cannot substitute for it. Missing ingredients or unavailable power prevent the batch from completing.
 
+<video controls preload="metadata" playsinline poster="../images/lunar-alloy-brewing-poster.jpg" class="wiki-video">
+  <source src="../videos/lunar-alloy-brewing.mp4" type="video/mp4">
+  Your browser does not support embedded video. You can <a href="../videos/lunar-alloy-brewing.mp4">download the Lunar Alloy brewing demonstration</a> instead.
+</video>
+
+*Lunar Scrap and three Hydrogen bottles brewing into Lunar Alloy Solution in the powered Electric Brewing Stand.*
+
 ### 3. Craft finished Alloy
 
 In your personal 2×2 crafting grid or a crafting table, place **two Lunar Alloy Solution bottles and two iron ingots in four separate cells**, in any order.
+
+![Two iron ingots and two Lunar Alloy Solution bottles crafting one Lunar Alloy](images/lunar-alloy-crafting.png){ .wiki-shot loading=lazy }
+
+*Two Solution bottles and two iron ingots make one Lunar Alloy. The ingredients can be arranged in any order.*
 
 The shapeless recipe produces **one Lunar Alloy** and returns **two empty glass bottles**. Shift-click crafting also returns the bottles; any returned bottles that cannot fit in your inventory drop at your feet. Use a player crafting grid: automated Crafter blocks do not support this recipe and do not consume its ingredients.
 

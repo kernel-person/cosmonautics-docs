@@ -10,6 +10,10 @@ Add finished public screenshots to `docs/images/`. Capture real gameplay from th
 - `station-eva.jpg`
 - `moon-catacomb-entrance.jpg`
 - `moon-base-pressure-gauge.jpg`
+- `lunar-alloy-crafting.png`
+- `lunar-alloy-brewing-poster.jpg`
+- `lunar-rover-driving-poster.jpg`
+- `lunar-rover-driving.gif` (marketplace driving loop)
 
 Recommended framing:
 
@@ -23,3 +27,13 @@ Recommended framing:
 The core player-facing screenshot set is complete. Add future captures only when they explain a new released feature or materially improve an existing guide.
 
 The two Cosmonautics branding images already in that directory are approved exports from the plugin repository.
+
+## Gameplay recordings
+
+User-supplied recordings captured on 17 October 2026:
+
+- `docs/videos/lunar-alloy-brewing.mp4`: close crop of the powered brewing GUI, at native speed. Only the final capture-controls tail was removed.
+- `docs/videos/lunar-rover-driving.mp4`: square crop retaining placement, refuelling, and the full drive, at native speed.
+- `docs/images/lunar-rover-driving.gif`: a short looping excerpt of the driving portion for marketplace descriptions.
+
+The wiki embeds MP4s with playback controls and matching posters. The crafting screenshot shows the shapeless two-Solution, two-iron recipe; its displayed arrangement is an example.

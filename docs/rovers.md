@@ -4,6 +4,13 @@ Lunar Rovers are player-owned, Hydrogen-powered vehicles for **Earth and the Moo
 
 Start `/cosmo tutorial moon-workshop` to preview both recipes, placement, refuelling, and driving with floating W/A/S/D prompts.
 
+<video controls preload="metadata" playsinline poster="../images/lunar-rover-driving-poster.jpg" class="wiki-video">
+  <source src="../videos/lunar-rover-driving.mp4" type="video/mp4">
+  Your browser does not support embedded video. You can <a href="../videos/lunar-rover-driving.mp4">download the Lunar Rover demonstration</a> instead.
+</video>
+
+*Place, fuel, and drive a Lunar Rover across the Moon's terrain.*
+
 ## Choose and craft a rover
 
 Both recipes need finished [Lunar Alloy](moon.md#make-lunar-alloy). Scrap and Solution do not work in its place.
