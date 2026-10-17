@@ -20,16 +20,15 @@ Both recipes need finished [Lunar Alloy](moon.md#make-lunar-alloy). Scrap and So
 | Solo | Owner/driver | 2 copper ingots, 1 saddle, 2 iron ingots, 1 Lunar Alloy, 2 blackstone |
 | Duo | Owner/driver + 1 guest passenger | 1 copper ingot, 2 saddles, 2 iron ingots, 1 Lunar Alloy, 2 blackstone |
 
-Use a crafting table with these layouts:
+Use a crafting table and match the arrangement for your chosen variant. Each occupied slot holds one item.
 
-```text
-Solo          Duo
-C S C         S C S
-I L I         I L I
-B . B         B . B
-```
+### Solo — one driver
 
-`C` = copper ingot, `S` = saddle, `I` = iron ingot, `L` = Lunar Alloy, `B` = blackstone, `.` = empty slot.
+![Solo Rover recipe: copper, saddle, copper across the top; iron, Lunar Alloy, iron in the middle; blackstone in both bottom corners. Makes one Solo Rover.](images/recipes/lunar-rover-solo.png){ .crafting-recipe width=528 height=246 loading=lazy }
+
+### Duo — driver and passenger
+
+![Duo Rover recipe: saddle, copper, saddle across the top; iron, Lunar Alloy, iron in the middle; blackstone in both bottom corners. Makes one Duo Rover.](images/recipes/lunar-rover-duo.png){ .crafting-recipe width=528 height=246 loading=lazy }
 
 **One Small Step** reveals both recipes in the recipe book. The advancement is not required to craft them when you already have the materials.
 

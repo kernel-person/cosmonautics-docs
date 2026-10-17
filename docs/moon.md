@@ -70,9 +70,12 @@ Use Hydrogen in every bottom slot: Oxygen, water, and empty bottles cannot subst
 
 In your personal 2×2 crafting grid or a crafting table, place **two Lunar Alloy Solution bottles and two iron ingots in four separate cells**, in any order.
 
-![Two iron ingots and two Lunar Alloy Solution bottles crafting one Lunar Alloy](images/lunar-alloy-crafting.png){ .wiki-shot loading=lazy }
+![Shapeless Lunar Alloy recipe: two iron ingots and two gray Lunar Alloy Solution bottles in separate cells produce one Lunar Alloy.](images/recipes/lunar-alloy.png){ .crafting-recipe width=528 height=246 loading=lazy }
 
-*Two Solution bottles and two iron ingots make one Lunar Alloy. The ingredients can be arranged in any order.*
+*Shapeless: two Solution bottles and two iron ingots make one Lunar Alloy, in any arrangement.*
+
+??? example "In-game crafting example"
+    ![Two iron ingots and two Lunar Alloy Solution bottles crafting one Lunar Alloy](images/lunar-alloy-crafting.png){ .wiki-shot loading=lazy }
 
 The shapeless recipe produces **one Lunar Alloy** and returns **two empty glass bottles**. Shift-click crafting also returns the bottles; any returned bottles that cannot fit in your inventory drop at your feet. Use a player crafting grid: automated Crafter blocks do not support this recipe and do not consume its ingredients.
 
@@ -87,13 +90,25 @@ Finished Alloy is used by the existing rover and equipment recipes. Scrap and So
 
 Use your Alloy to craft a [Solo or Duo Lunar Rover](rovers.md). Both run on Hydrogen and can be placed on Earth or the Moon. Solo seats its owner; Duo adds a passenger seat.
 
-The Moon workshop also previews these shapeless equipment recipes:
+The Moon workshop also previews these equipment recipes. All three are **shapeless**: use one item per occupied slot, in any arrangement.
 
-| Result | Ingredients |
-| --- | --- |
-| 1 Copper Gun | 1 copper horse armor + 1 spyglass + 1 crossbow + 1 Lunar Alloy |
-| 1 Rocket Launcher | 1 iron horse armor + 1 observer + 1 crossbow + 1 Lunar Alloy |
-| 4 Homing Rocket Ammo | 1 Rocket Fuel + 1 Oxidizer + 1 iron ingot |
+=== "Copper Gun"
+
+    ![Shapeless Copper Gun recipe: one copper horse armor, one spyglass, one crossbow and one Lunar Alloy produce one Copper Gun.](images/recipes/copper-gun.png){ .crafting-recipe width=528 height=246 loading=lazy }
+
+    **Makes 1 Copper Gun:** 1 copper horse armor + 1 spyglass + 1 crossbow + 1 Lunar Alloy.
+
+=== "Rocket Launcher"
+
+    ![Shapeless Rocket Launcher recipe: one iron horse armor, one observer, one crossbow and one Lunar Alloy produce one Rocket Launcher.](images/recipes/rocket-launcher.png){ .crafting-recipe width=528 height=246 loading=lazy }
+
+    **Makes 1 Rocket Launcher:** 1 iron horse armor + 1 observer + 1 crossbow + 1 Lunar Alloy.
+
+=== "Homing Rocket Ammo"
+
+    ![Shapeless Homing Rocket Ammo recipe: one Rocket Fuel, one Oxidizer and one iron ingot produce four Homing Rocket Ammo.](images/recipes/homing-rocket-ammo.png){ .crafting-recipe width=528 height=246 loading=lazy }
+
+    **Makes 4 Homing Rocket Ammo:** 1 Rocket Fuel + 1 Oxidizer + 1 iron ingot.
 
 These portable weapons work away from Earth. Right-click the Copper Gun to fire one copper nugget. With the Rocket Launcher, hold right-click to acquire a target, then release after lock; each shot consumes Homing Rocket Ammo. Follow the in-game prompts and your server's combat rules.
 

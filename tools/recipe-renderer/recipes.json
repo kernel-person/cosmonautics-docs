@@ -1,0 +1,64 @@
+{
+  "source_commit": "3029c7e6079999406df221470420ae42a9ff152a",
+  "items": {
+    "copper-ingot": {"kind": "sprite", "texture": "assets/minecraft/textures/item/copper_ingot.png"},
+    "iron-ingot": {"kind": "sprite", "texture": "assets/minecraft/textures/item/iron_ingot.png"},
+    "saddle": {"kind": "sprite", "texture": "assets/minecraft/textures/item/saddle.png"},
+    "copper-horse-armor": {"kind": "sprite", "texture": "assets/minecraft/textures/item/copper_horse_armor.png"},
+    "iron-horse-armor": {"kind": "sprite", "texture": "assets/minecraft/textures/item/iron_horse_armor.png"},
+    "spyglass": {"kind": "sprite", "texture": "assets/minecraft/textures/item/spyglass.png"},
+    "crossbow": {"kind": "sprite", "texture": "assets/minecraft/textures/item/crossbow_standby.png"},
+    "blackstone": {"kind": "block", "block": "blackstone"},
+    "observer": {"kind": "block", "block": "observer"},
+    "lunar-alloy-solution": {"kind": "potion", "tint": [128, 128, 128]},
+    "lunar-alloy": {"kind": "head", "skin": "assets/heads/lunar_alloy.png"},
+    "lunar-rover": {"kind": "head", "skin": "assets/heads/rover_item.png"},
+    "rocket-fuel": {"kind": "head", "skin": "assets/heads/rocket_fuel.png"},
+    "oxidizer": {"kind": "head", "skin": "assets/heads/oxidizer.png"},
+    "homing-rocket-ammo": {"kind": "head", "skin": "assets/heads/rocket_ammo.png"}
+  },
+  "recipes": [
+    {
+      "file": "lunar-rover-solo.png",
+      "source": "src/main/java/ke/ric/spaceplugin/recipe/LunarRoverRecipes.java",
+      "type": "shaped",
+      "slots": ["copper-ingot", "saddle", "copper-ingot", "iron-ingot", "lunar-alloy", "iron-ingot", "blackstone", null, "blackstone"],
+      "result": {"item": "lunar-rover", "count": 1}
+    },
+    {
+      "file": "lunar-rover-duo.png",
+      "source": "src/main/java/ke/ric/spaceplugin/recipe/LunarRoverRecipes.java",
+      "type": "shaped",
+      "slots": ["saddle", "copper-ingot", "saddle", "iron-ingot", "lunar-alloy", "iron-ingot", "blackstone", null, "blackstone"],
+      "result": {"item": "lunar-rover", "count": 1}
+    },
+    {
+      "file": "lunar-alloy.png",
+      "source": "src/main/java/ke/ric/spaceplugin/recipe/LunarAlloyRecipe.java",
+      "type": "shapeless",
+      "slots": ["iron-ingot", "iron-ingot", null, "lunar-alloy-solution", "lunar-alloy-solution", null, null, null, null],
+      "result": {"item": "lunar-alloy", "count": 1}
+    },
+    {
+      "file": "copper-gun.png",
+      "source": "src/main/java/ke/ric/spaceplugin/recipe/CopperGunRecipe.java",
+      "type": "shapeless",
+      "slots": ["copper-horse-armor", "spyglass", null, "crossbow", "lunar-alloy", null, null, null, null],
+      "result": {"item": "copper-horse-armor", "count": 1}
+    },
+    {
+      "file": "rocket-launcher.png",
+      "source": "src/main/java/ke/ric/spaceplugin/recipe/RocketLauncherRecipes.java",
+      "type": "shapeless",
+      "slots": ["iron-horse-armor", "observer", null, "crossbow", "lunar-alloy", null, null, null, null],
+      "result": {"item": "iron-horse-armor", "count": 1}
+    },
+    {
+      "file": "homing-rocket-ammo.png",
+      "source": "src/main/java/ke/ric/spaceplugin/recipe/RocketLauncherRecipes.java",
+      "type": "shapeless",
+      "slots": ["rocket-fuel", "oxidizer", "iron-ingot", null, null, null, null, null, null],
+      "result": {"item": "homing-rocket-ammo", "count": 4}
+    }
+  ]
+}

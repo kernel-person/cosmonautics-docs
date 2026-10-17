@@ -37,3 +37,9 @@ User-supplied recordings captured on 17 October 2026:
 - `docs/images/lunar-rover-driving.gif`: a short looping excerpt of the driving portion for marketplace descriptions.
 
 The wiki embeds MP4s with playback controls and matching posters. The crafting screenshot shows the shapeless two-Solution, two-iron recipe; its displayed arrangement is an example.
+
+## Rendered crafting recipes
+
+`docs/images/recipes/` contains the Solo Rover, Duo Rover, Lunar Alloy, Copper Gun, Rocket Launcher, and Homing Rocket Ammo diagrams. These are generated from the real GUI, vanilla textures, and custom head skins; they are not gameplay captures. See `tools/recipe-renderer/README.md` for provenance and regeneration.
+
+Check the shaped rover slots, custom item identities, gray Solution tint, and four-ammo result count whenever regenerating. Shapeless recipes show one possible arrangement and must stay labelled as shapeless in the wiki.

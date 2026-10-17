@@ -1,0 +1,137 @@
+{
+  "minecraft_version": "26.2",
+  "client_jar_sha1": "2dc72797acbc1b63fc16a11c4ac393605f453754",
+  "plugin_commit": "3029c7e6079999406df221470420ae42a9ff152a",
+  "assets": [
+    {
+      "path": "assets/minecraft/font/include/default.json",
+      "source": "minecraft-26.2-client.jar!/assets/minecraft/font/include/default.json",
+      "sha256": "e17f8a4289db15bf662df3ab623ad4dd9bda9d2b2e3e9e9e743234ff186bd0c4"
+    },
+    {
+      "path": "assets/minecraft/models/block/block.json",
+      "source": "minecraft-26.2-client.jar!/assets/minecraft/models/block/block.json",
+      "sha256": "212df16c5aa3e6aef3f4d3e080532d28a86cf9b2071618e4ca587ee9ef3c6d09"
+    },
+    {
+      "path": "assets/minecraft/models/block/observer.json",
+      "source": "minecraft-26.2-client.jar!/assets/minecraft/models/block/observer.json",
+      "sha256": "c2b2e116d6ef34f14415f6a1809da45204f121541cf47a2d20474f3adbca32ce"
+    },
+    {
+      "path": "assets/minecraft/models/item/template_skull.json",
+      "source": "minecraft-26.2-client.jar!/assets/minecraft/models/item/template_skull.json",
+      "sha256": "cd9a42a9a400876f1ca55e3caef2b20aea01710d761941c0eb7a2e64475ea224"
+    },
+    {
+      "path": "assets/minecraft/textures/block/blackstone.png",
+      "source": "minecraft-26.2-client.jar!/assets/minecraft/textures/block/blackstone.png",
+      "sha256": "8104d381f680eeb7d71a023aa056b593ef0855821538e435949c94b58033e7cb"
+    },
+    {
+      "path": "assets/minecraft/textures/block/blackstone_top.png",
+      "source": "minecraft-26.2-client.jar!/assets/minecraft/textures/block/blackstone_top.png",
+      "sha256": "9eb9bce7a27defc49dd8a2b2dc74f4c7710dc3bbcaa5108a6c1193c82922935d"
+    },
+    {
+      "path": "assets/minecraft/textures/block/observer_back.png",
+      "source": "minecraft-26.2-client.jar!/assets/minecraft/textures/block/observer_back.png",
+      "sha256": "cbed479fc6df6ebc7e3c005cfe571a8237cc83625f377f26b52b59280fe63717"
+    },
+    {
+      "path": "assets/minecraft/textures/block/observer_front.png",
+      "source": "minecraft-26.2-client.jar!/assets/minecraft/textures/block/observer_front.png",
+      "sha256": "300c141e244c37922da18a3567ee4d8f4e25b9b514029684e2bd3ae70318ef6f"
+    },
+    {
+      "path": "assets/minecraft/textures/block/observer_side.png",
+      "source": "minecraft-26.2-client.jar!/assets/minecraft/textures/block/observer_side.png",
+      "sha256": "fc989d0b6d95672094e1b096f4d298b9ebbd04c0b0c47ffc1cd752948fb54448"
+    },
+    {
+      "path": "assets/minecraft/textures/block/observer_top.png",
+      "source": "minecraft-26.2-client.jar!/assets/minecraft/textures/block/observer_top.png",
+      "sha256": "58916b14e87610499cacdb5d2ee5f1bb8cdac2bb658309a6dc03f6263ff4ad06"
+    },
+    {
+      "path": "assets/minecraft/textures/font/ascii.png",
+      "source": "minecraft-26.2-client.jar!/assets/minecraft/textures/font/ascii.png",
+      "sha256": "e8646f1ed1f4bfd597d262cca3d8fac88ceaaa62807bbd5e607b2e3fe41c928a"
+    },
+    {
+      "path": "assets/minecraft/textures/gui/container/crafting_table.png",
+      "source": "minecraft-26.2-client.jar!/assets/minecraft/textures/gui/container/crafting_table.png",
+      "sha256": "baf65a599d8bb380b1b03efa1862c20fd29e936b43110d7438b9fe00086075b0"
+    },
+    {
+      "path": "assets/minecraft/textures/item/copper_horse_armor.png",
+      "source": "minecraft-26.2-client.jar!/assets/minecraft/textures/item/copper_horse_armor.png",
+      "sha256": "dc7c92cb454fcb0baee75f4507cfa0bf06c233a97d684d07b5b39bf57aa610ea"
+    },
+    {
+      "path": "assets/minecraft/textures/item/copper_ingot.png",
+      "source": "minecraft-26.2-client.jar!/assets/minecraft/textures/item/copper_ingot.png",
+      "sha256": "209e43de9b82ba4d5320c2c7c71fbc91fafee7efbc80c75aca48dbcf0c963227"
+    },
+    {
+      "path": "assets/minecraft/textures/item/crossbow_standby.png",
+      "source": "minecraft-26.2-client.jar!/assets/minecraft/textures/item/crossbow_standby.png",
+      "sha256": "6ea28ffcdf20314406cfaddcf9c1684523ff27211a482e6a709c2bd4543bb468"
+    },
+    {
+      "path": "assets/minecraft/textures/item/iron_horse_armor.png",
+      "source": "minecraft-26.2-client.jar!/assets/minecraft/textures/item/iron_horse_armor.png",
+      "sha256": "0c57dfa88d51463cc1c641f1fc9a799c68dec8b87f9d1635bad7bd3c3e415f6a"
+    },
+    {
+      "path": "assets/minecraft/textures/item/iron_ingot.png",
+      "source": "minecraft-26.2-client.jar!/assets/minecraft/textures/item/iron_ingot.png",
+      "sha256": "ca67b14f685bfe1972addf6b44692dab601fe8d27464a30aa8e65f16f716cab2"
+    },
+    {
+      "path": "assets/minecraft/textures/item/potion.png",
+      "source": "minecraft-26.2-client.jar!/assets/minecraft/textures/item/potion.png",
+      "sha256": "6a09a39bb6c41bc92bd5eca1f51caf5b582a85f68206b164476c8e14a4669416"
+    },
+    {
+      "path": "assets/minecraft/textures/item/potion_overlay.png",
+      "source": "minecraft-26.2-client.jar!/assets/minecraft/textures/item/potion_overlay.png",
+      "sha256": "606f372ad8b832a8659c54adb5da0ace0bcc74b471b84211076197cb3c557043"
+    },
+    {
+      "path": "assets/minecraft/textures/item/saddle.png",
+      "source": "minecraft-26.2-client.jar!/assets/minecraft/textures/item/saddle.png",
+      "sha256": "652ed2aed7f6fc5362cbfead6bc7df3c80367a07b5522d981aa7f40ee18ac051"
+    },
+    {
+      "path": "assets/minecraft/textures/item/spyglass.png",
+      "source": "minecraft-26.2-client.jar!/assets/minecraft/textures/item/spyglass.png",
+      "sha256": "8c068d097c8e9693eff9bdf1b9fdc9910e7b6365d3d60594ee14005732e91423"
+    },
+    {
+      "path": "assets/heads/lunar_alloy.png",
+      "source": "https://textures.minecraft.net/texture/53fd8e87dd9032cd72f6fa2d6b45e53f0827b527263da648e0ee5552cdad6cbc",
+      "sha256": "53fd8e87dd9032cd72f6fa2d6b45e53f0827b527263da648e0ee5552cdad6cbc"
+    },
+    {
+      "path": "assets/heads/rover_item.png",
+      "source": "https://textures.minecraft.net/texture/6894fc9d3b50a838e1aff088663c54fb59d8aabcacbfff6f5651d50793ee4f2a",
+      "sha256": "6894fc9d3b50a838e1aff088663c54fb59d8aabcacbfff6f5651d50793ee4f2a"
+    },
+    {
+      "path": "assets/heads/rocket_fuel.png",
+      "source": "https://textures.minecraft.net/texture/db89de48a9b87cfd07c704f2be5e5a8cc45e8079d38faaedf13b15d15a10a70c",
+      "sha256": "db89de48a9b87cfd07c704f2be5e5a8cc45e8079d38faaedf13b15d15a10a70c"
+    },
+    {
+      "path": "assets/heads/oxidizer.png",
+      "source": "https://textures.minecraft.net/texture/91d4e44e6f2ece6ee95225fca81c238239f60f85aec2ac7fa35d1cb824989bd1",
+      "sha256": "91d4e44e6f2ece6ee95225fca81c238239f60f85aec2ac7fa35d1cb824989bd1"
+    },
+    {
+      "path": "assets/heads/rocket_ammo.png",
+      "source": "https://textures.minecraft.net/texture/239c6140888147f5dca236245085a144aa54413eff13e2a57a1d33a830508af8",
+      "sha256": "239c6140888147f5dca236245085a144aa54413eff13e2a57a1d33a830508af8"
+    }
+  ]
+}
